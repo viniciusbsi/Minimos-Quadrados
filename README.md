@@ -5,5 +5,5 @@ resultados através de gráficos
 * Flask
 	- Implementação de funções
 	- Criação de projetos
-
+	- Teste para atualizar o README
 
